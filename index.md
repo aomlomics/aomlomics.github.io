@@ -4,7 +4,7 @@
 
 Our 'omics methods include DNA metabarcoding (amplicon sequencing), quantiative PCR, transcriptomics, proteomics, and metabolomics—plus all of the bioinformatics to support analysis of these data.
 
-This web page serves as a portal to our organizations's GitHub presence, which can be found at https://github.com/aomlomics.
+This web page serves as a portal to our organizations's GitHub presence, which can be found at [github.com/aomlomics](https://github.com/aomlomics).
 
 Individual repositories in this organization may have their own web pages:
 
